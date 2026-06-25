@@ -1,6 +1,9 @@
 ### Hi I Am Eddy,
 ### A Junior Frontend Developer.
 
+
+[工作中的小紀錄](https://blush-coneflower-396.notion.site/quick-notes-2f1644b78991813c85f4f95040ff6ecd)
+
 <div>
   <span align="center"><img width=100 src="https://i.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.webp" /></span>
   <span align="center"><img width=100 src="https://i.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.webp" /></span>
