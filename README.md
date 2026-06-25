@@ -2,6 +2,7 @@
 ### A Junior Frontend Developer.
 
 [Blog(比較沒在更新)](https://eddy-journey.com/)
+
 [工作中的小紀錄](https://blush-coneflower-396.notion.site/quick-notes-2f1644b78991813c85f4f95040ff6ecd)
 
 <div>
